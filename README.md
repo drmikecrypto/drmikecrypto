@@ -34,21 +34,7 @@
 
 <!-- Contribution Snake Animation -->
 <div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/drmikecrypto/drmikecrypto/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/drmikecrypto/drmikecrypto/output/github-contribution-grid-snake.svg"
-    />
-    <img 
-      alt="github contribution grid snake animation" 
-      src="https://raw.githubusercontent.com/drmikecrypto/drmikecrypto/output/github-contribution-grid-snake.svg"
-      style="width: 100%; max-width: 100%; height: auto;"
-    />
-  </picture>
+  <img src="https://github.com/drmikecrypto/drmikecrypto/blob/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;">
 </div>
 
 <!-- Technologies & Tools -->
