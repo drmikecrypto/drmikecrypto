@@ -21,9 +21,8 @@
 <!-- Languages and Tools -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drmikecrypto&theme=radical&layout=compact&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&langs_count=8&custom_title=Tech%20Stack%20Proficiency"/>
 
-<!-- Trophy Collection Top -->
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=drmikecrypto&theme=radical&no-frame=true&column=2&row=1&margin-w=8&margin-h=8"/>
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=drmikecrypto&theme=radical&no-frame=true&column=2&row=1&margin-w=8&margin-h=8"/>
+<!-- Trophy Collection -->
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=drmikecrypto&theme=radical&no-frame=true&column=4&row=2&margin-w=8&margin-h=8"/>
 
 <!-- Activity Graph -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=drmikecrypto&bg_color=0D1117&color=C9D1D9&line=FF6B6B&point=FFFFFF&area=true&hide_border=true"/>
