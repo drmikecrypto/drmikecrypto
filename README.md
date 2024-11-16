@@ -24,25 +24,45 @@
 </div>
 
 <!-- Achievement Badges Row -->
-<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
+<div style="display: flex; justify-content: space-between; gap: 10px; margin: 20px 0; width: 100%;">
   <!-- Commits Badge -->
-  <div style="background: #0D1117; border-radius: 6px; padding: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=drmikecrypto&theme=radical&no-frame=true&margin-w=15&margin-h=15&title=Commits" alt="Commits: 477pt"/>
+  <div style="flex: 1; background: #0D1117; border-radius: 6px; padding: 15px; text-align: center; border: 1px solid #30363d;">
+    <div style="color: #FF69B4; font-weight: bold; margin-bottom: 5px;">Commits</div>
+    <div style="display: flex; justify-content: center; margin-bottom: 5px;">
+      <div style="background: #4CAF50; border-radius: 50%; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; font-size: 20px;">A</div>
+    </div>
+    <div style="color: white; margin-bottom: 5px;">Hyper Committer</div>
+    <div style="color: #FF69B4; font-size: 14px;">477pt</div>
   </div>
-  
+
   <!-- Experience Badge -->
-  <div style="background: #0D1117; border-radius: 6px; padding: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=drmikecrypto&theme=radical&no-frame=true&margin-w=15&margin-h=15&title=Experience" alt="Experience: 11pt"/>
+  <div style="flex: 1; background: #0D1117; border-radius: 6px; padding: 15px; text-align: center; border: 1px solid #30363d;">
+    <div style="color: #FF69B4; font-weight: bold; margin-bottom: 5px;">Experience</div>
+    <div style="display: flex; justify-content: center; margin-bottom: 5px;">
+      <div style="background: #4CAF50; border-radius: 50%; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; font-size: 20px;">A</div>
+    </div>
+    <div style="color: white; margin-bottom: 5px;">Intermediate Dev</div>
+    <div style="color: #FF69B4; font-size: 14px;">11pt</div>
   </div>
-  
+
   <!-- Stars Badge -->
-  <div style="background: #0D1117; border-radius: 6px; padding: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=drmikecrypto&theme=radical&no-frame=true&margin-w=15&margin-h=15&title=Stars" alt="First Star: 3pt"/>
+  <div style="flex: 1; background: #0D1117; border-radius: 6px; padding: 15px; text-align: center; border: 1px solid #30363d;">
+    <div style="color: #FF69B4; font-weight: bold; margin-bottom: 5px;">Stars</div>
+    <div style="display: flex; justify-content: center; margin-bottom: 5px;">
+      <div style="background: #2196F3; border-radius: 50%; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; font-size: 20px;">C</div>
+    </div>
+    <div style="color: white; margin-bottom: 5px;">First Star</div>
+    <div style="color: #FF69B4; font-size: 14px;">3pt</div>
   </div>
-  
-  <!-- First Repository Badge -->
-  <div style="background: #0D1117; border-radius: 6px; padding: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=drmikecrypto&theme=radical&no-frame=true&margin-w=15&margin-h=15&title=Repository" alt="First Repository: 3pt"/>
+
+  <!-- Repositories Badge -->
+  <div style="flex: 1; background: #0D1117; border-radius: 6px; padding: 15px; text-align: center; border: 1px solid #30363d;">
+    <div style="color: #FF69B4; font-weight: bold; margin-bottom: 5px;">Repositories</div>
+    <div style="display: flex; justify-content: center; margin-bottom: 5px;">
+      <div style="background: #2196F3; border-radius: 50%; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; font-size: 20px;">C</div>
+    </div>
+    <div style="color: white; margin-bottom: 5px;">First Repository</div>
+    <div style="color: #FF69B4; font-size: 14px;">3pt</div>
   </div>
 </div>
 
