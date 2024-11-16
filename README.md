@@ -24,8 +24,26 @@
 </div>
 
 <!-- Achievement Badges Row -->
-<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px; flex-wrap: wrap;">
-  <img src="https://github-profile-trophy.vercel.app/?username=drmikecrypto&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=4&title=Commits,Experience,Stars,Followers,PullRequest,Repositories,Issues,Reviews" alt="achievements"/>
+<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
+  <!-- Commits Badge -->
+  <div style="background: #0D1117; border-radius: 6px; padding: 10px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=drmikecrypto&theme=radical&no-frame=true&margin-w=15&margin-h=15&title=Commits" alt="Commits: 477pt"/>
+  </div>
+  
+  <!-- Experience Badge -->
+  <div style="background: #0D1117; border-radius: 6px; padding: 10px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=drmikecrypto&theme=radical&no-frame=true&margin-w=15&margin-h=15&title=Experience" alt="Experience: 11pt"/>
+  </div>
+  
+  <!-- Stars Badge -->
+  <div style="background: #0D1117; border-radius: 6px; padding: 10px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=drmikecrypto&theme=radical&no-frame=true&margin-w=15&margin-h=15&title=Stars" alt="First Star: 3pt"/>
+  </div>
+  
+  <!-- First Repository Badge -->
+  <div style="background: #0D1117; border-radius: 6px; padding: 10px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=drmikecrypto&theme=radical&no-frame=true&margin-w=15&margin-h=15&title=Repository" alt="First Repository: 3pt"/>
+  </div>
 </div>
 
 <!-- Activity Graph -->
