@@ -2,9 +2,9 @@
   
 <!-- Custom Title -->
 <h1>
-  <img src="https://cdn.pixabay.com/photo/2016/03/31/19/45/caution-1295260_1280.png" width="32" height="32"/>
+  <img src="https://cdn.pixabay.com/photo/2016/03/31/19/45/caution-1295260_1280.png" width="42" height="42"/>
   <span style="color: #FF6B6B">Dr</span><span style="color: #C9D1D9">Mike</span><span style="color: #58A6FF">Crypto</span>'s GitHub Universe
-  <img src="https://cdn.pixabay.com/photo/2023/01/09/01/15/flash-7706360_640.png"32" height="32"/>
+  <img src="https://cdn.pixabay.com/photo/2023/01/09/01/15/flash-7706360_640.png"42" height="42"/>
 </h1>
 
 <!-- Profile Views Counter -->
