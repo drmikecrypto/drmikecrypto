@@ -33,11 +33,23 @@
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=drmikecrypto&bg_color=0D1117&color=C9D1D9&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" style="animation: fadeIn 2s ease-in-out;"/>
 
 <!-- Contribution Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/drmikecrypto/drmikecrypto/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/drmikecrypto/drmikecrypto/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/drmikecrypto/drmikecrypto/output/github-contribution-grid-snake.svg" style="animation: fadeIn 2s ease-in-out;"/>
-</picture>
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/drmikecrypto/drmikecrypto/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/drmikecrypto/drmikecrypto/output/github-contribution-grid-snake.svg"
+    />
+    <img 
+      alt="github contribution grid snake animation" 
+      src="https://raw.githubusercontent.com/drmikecrypto/drmikecrypto/output/github-contribution-grid-snake.svg"
+      style="width: 100%; max-width: 100%; height: auto;"
+    />
+  </picture>
+</div>
 
 <!-- Technologies & Tools -->
 <div align="center">
