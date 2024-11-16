@@ -34,7 +34,7 @@
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   <img src="https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/f3a29/eth-home-icon.webp" height="40" alt="Ethereum"/>
   <img src="https://cryptologos.cc/logos/fantom-ftm-logo.png" height="40" alt="Fantom"/>
-  <img src="https://your-sonic-labs-logo-url.png" height="40" alt="Sonic Labs"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2F0xSonicLabs&psig=AOvVaw2mOEvojrpq6k6SUG1LUqs3&ust=1731828532479000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiglJmq4IkDFQAAAAAdAAAAABAE" height="40" alt="Sonic Labs"/>
   <img src="https://your-blockchain-logo-url.png" height="40" alt="Blockchain"/>
 </div>
 
