@@ -32,11 +32,11 @@
 
 <!-- Footer -->
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
-  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=035" height="40" alt="Ethereum"/>
-  <img src="https://cryptologos.cc/logos/fantom-ftm-logo.png" height="40" alt="Fantom"/>
-  <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=035" height="40" alt="Sonic Labs"/>
-  <img src="https://cryptologos.cc/logos/solana-sol-logo.png?v=035" height="40" alt="Blockchain"/>
-  <img src="https://cryptologos.cc/logos/toncoin-ton-logo.png?v=035" height="40" alt="Blockchain"/>
+  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=035" height="20" alt="Ethereum"/>
+  <img src="https://cryptologos.cc/logos/fantom-ftm-logo.png" height="20" alt="Fantom"/>
+  <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=035" height="20" alt="Solana"/>
+  <img src="https://cryptologos.cc/logos/solana-sol-logo.png?v=035" height="20" alt="Bitcoin"/>
+  <img src="https://cryptologos.cc/logos/toncoin-ton-logo.png?v=035" height="20" alt="Ton"/>
   
 </div>
 
