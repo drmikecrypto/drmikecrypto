@@ -23,49 +23,6 @@
   </div>
 </div>
 
-<!-- Achievement Badges Row -->
-<div style="display: flex; justify-content: space-between; gap: 10px; margin: 20px 0; width: 100%;">
-  <!-- Commits Badge -->
-  <div style="flex: 1; background: #0D1117; border-radius: 6px; padding: 15px; text-align: center; border: 1px solid #30363d;">
-    <div style="color: #FF69B4; font-weight: bold; margin-bottom: 5px;">Commits</div>
-    <div style="display: flex; justify-content: center; margin-bottom: 5px;">
-      <div style="background: #4CAF50; border-radius: 50%; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; font-size: 20px;">A</div>
-    </div>
-    <div style="color: white; margin-bottom: 5px;">Hyper Committer</div>
-    <div style="color: #FF69B4; font-size: 14px;">477pt</div>
-  </div>
-
-  <!-- Experience Badge -->
-  <div style="flex: 1; background: #0D1117; border-radius: 6px; padding: 15px; text-align: center; border: 1px solid #30363d;">
-    <div style="color: #FF69B4; font-weight: bold; margin-bottom: 5px;">Experience</div>
-    <div style="display: flex; justify-content: center; margin-bottom: 5px;">
-      <div style="background: #4CAF50; border-radius: 50%; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; font-size: 20px;">A</div>
-    </div>
-    <div style="color: white; margin-bottom: 5px;">Intermediate Dev</div>
-    <div style="color: #FF69B4; font-size: 14px;">11pt</div>
-  </div>
-
-  <!-- Stars Badge -->
-  <div style="flex: 1; background: #0D1117; border-radius: 6px; padding: 15px; text-align: center; border: 1px solid #30363d;">
-    <div style="color: #FF69B4; font-weight: bold; margin-bottom: 5px;">Stars</div>
-    <div style="display: flex; justify-content: center; margin-bottom: 5px;">
-      <div style="background: #2196F3; border-radius: 50%; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; font-size: 20px;">C</div>
-    </div>
-    <div style="color: white; margin-bottom: 5px;">First Star</div>
-    <div style="color: #FF69B4; font-size: 14px;">3pt</div>
-  </div>
-
-  <!-- Repositories Badge -->
-  <div style="flex: 1; background: #0D1117; border-radius: 6px; padding: 15px; text-align: center; border: 1px solid #30363d;">
-    <div style="color: #FF69B4; font-weight: bold; margin-bottom: 5px;">Repositories</div>
-    <div style="display: flex; justify-content: center; margin-bottom: 5px;">
-      <div style="background: #2196F3; border-radius: 50%; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; font-size: 20px;">C</div>
-    </div>
-    <div style="color: white; margin-bottom: 5px;">First Repository</div>
-    <div style="color: #FF69B4; font-size: 14px;">3pt</div>
-  </div>
-</div>
-
 <!-- Activity Graph -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=drmikecrypto&bg_color=0D1117&color=C9D1D9&line=FF6B6B&point=FFFFFF&area=true&hide_border=true"/>
 
