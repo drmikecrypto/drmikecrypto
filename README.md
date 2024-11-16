@@ -2,7 +2,7 @@
 
 <!-- Custom Title -->
 <h1 style="display: inline-block; margin-bottom: 20px;">
-  👋 Dr Mike Crypto's GitHub Universe 🦾
+  👋 Dr Mike's GitHub Universe 🦾
 </h1>
 
 <!-- Stats Row -->
