@@ -1,46 +1,43 @@
 <div align="center">
-  
-<!-- Custom Title -->
-<h1>
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNiIgaGVpZ2h0PSIzNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNGRjZCNkIiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTYgMjFWNWEyIDIgMCAwIDAtMi0yaC00YTIgMiAwIDAgMC0yIDJ2MTYiPjwvcGF0aD48cGF0aCBkPSJNMTIgM3YxOCI+PC9wYXRoPjwvc3ZnPg==" width="32" height="32"/>
-  <span style="color: #FF6B6B">Dr</span><span style="color: #C9D1D9">Mike</span><span style="color: #58A6FF">Crypto</span>'s GitHub Universe
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNiIgaGVpZ2h0PSIzNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM1OEE2RkYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCI+PC9jaXJjbGU+PHBhdGggZD0iTTggMTRzMS41IDIgNCAyIDQtMiA0LTIiPjwvcGF0aD48bGluZSB4MT0iOSIgeTE9IjkiIHgyPSI5LjAxIiB5Mj0iOSI+PC9saW5lPjxsaW5lIHgxPSIxNSIgeTE9IjkiIHgyPSIxNS4wMSIgeTI9IjkiPjwvbGluZT48L3N2Zz4=" width="32" height="32"/>
-</h1>
+    <!-- Title with Icons -->
+    <h1>
+        <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> DrMikeCrypto's GitHub Universe
+        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
+    </h1>
 
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=drmikecrypto&color=blueviolet&style=flat-square)
+    <!-- Profile Views Counter -->
+    <div style="background-color:#0D1117;padding:5px 10px;border-radius:5px;display:inline-block">
+        <span style="color:#C9D1D9">Profile views</span>
+        <span style="background-color:#58A6FF;color:#0D1117;padding:2px 5px;border-radius:3px;margin-left:5px">13</span>
+    </div>
 
-<!-- Introduction Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=150&section=header&text=Blockchain%20Developer&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Smart%20Contracts%20|%20DeFi%20|%20Web3&descAlignY=60"/>
+    <!-- Banner -->
+    <div style="background:linear-gradient(90deg,#4CAF50,#2196F3);padding:20px;border-radius:10px;margin:20px 0">
+        <h1 style="color:white;margin:0">Blockchain Developer</h1>
+        <p style="color:white;opacity:0.9">Smart Contracts | DeFi | Web3</p>
+        <!-- Tech Icons -->
+        <div>
+            <img src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
+            <img src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"/>
+            <img src="https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white"/>
+        </div>
+    </div>
 
-<!-- GitHub Stats with Custom Styling -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=drmikecrypto&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FF6B6B&ring_color=FF6B6B&include_all_commits=true&count_private=true&custom_title=DrMikeCrypto%27s%20GitHub%20Impact"/>
+    <!-- Rest of your existing content -->
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=drmikecrypto&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=C9D1D9&sideLabels=C9D1D9"/>
+    <!-- Footer Icons -->
+    <div style="margin-top:20px">
+        <a href="https://ethereum.org">
+            <img src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" height="25"/>
+        </a>
+        <a href="https://blockchain.com">
+            <img src="https://img.shields.io/badge/-Blockchain-121D33?style=flat-square&logo=blockchain-dot-com&logoColor=white" height="25"/>
+        </a>
+        <!-- Add More Tech Badges -->
+        <img src="https://img.shields.io/badge/-DeFi-FF007A?style=flat-square&logo=defi&logoColor=white" height="25"/>
+        <img src="https://img.shields.io/badge/-Web3-F16822?style=flat-square&logo=web3&logoColor=white" height="25"/>
+    </div>
 
-<!-- Languages and Tools -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drmikecrypto&theme=radical&layout=compact&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&langs_count=8&custom_title=Tech%20Stack%20Proficiency"/>
-
-<!-- Trophy Collection -->
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=drmikecrypto&theme=radical&no-frame=true&column=4&row=1&margin-w=8&margin-h=8"/>
-
-<!-- Activity Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=drmikecrypto&bg_color=0D1117&color=C9D1D9&line=FF6B6B&point=FFFFFF&area=true&hide_border=true"/>
-
-<!-- Contribution Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/drmikecrypto/drmikecrypto/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/drmikecrypto/drmikecrypto/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/drmikecrypto/drmikecrypto/output/github-contribution-grid-snake.svg">
-</picture>
-
-<!-- Technologies & Tools -->
-<div align="center">
-  <code><img height="40" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM1OEE2RkYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cG9seWdvbiBwb2ludHM9IjEyIDIgMTkgMjEgMTIgMTcgNSAyMSAxMiAyIj48L3BvbHlnb24+PC9zdmc+" alt="Ethereum"/></code>
-  <code><img height="40" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNGRjZCNkIiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTYgOGE2IDYgMCAwIDEgNiA2djdoLTR2LTdhMiAyIDAgMCAwLTItMiAyIDIgMCAwIDAtMiAydjdoLTR2LTdhNiA2IDAgMCAxIDYtNnoiPjwvcGF0aD48cmVjdCB4PSIyIiB5PSI5IiB3aWR0aD0iNCIgaGVpZ2h0PSIxMiI+PC9yZWN0PjxjaXJjbGUgY3g9IjQiIGN5PSI0IiByPSIyIj48L2NpcmNsZT48L3N2Zz4=" alt="Blockchain"/></code>
-</div>
-
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=120&section=footer"/>
-
+    <!-- Wave Footer -->
+    <img src="https://raw.githubusercontent.com/mdixitha/mdixitha/main/wave.svg" width="100%" height="150">
 </div>
