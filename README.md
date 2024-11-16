@@ -34,7 +34,7 @@
 
 <!-- Contribution Snake Animation -->
 <div align="center">
-  <img src="https://github.com/drmikecrypto/drmikecrypto/blob/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;">
 </div>
 
 <!-- Technologies & Tools -->
