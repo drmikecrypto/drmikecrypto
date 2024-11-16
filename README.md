@@ -46,7 +46,7 @@
 </div>
 
 <!-- Footer with Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=120&section=footer" style="animation: fadeIn 2s ease-in-out;"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=120&section=footer" alt="Footer Wave" class="footer-image"/>
 
 </div>
 
@@ -97,5 +97,9 @@
 
 .tech-icon:hover {
   transform: scale(1.2);
+}
+
+.footer-image {
+  animation: slideIn 2s ease-in-out;
 }
 </style>
