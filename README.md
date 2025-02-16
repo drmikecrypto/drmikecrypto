@@ -24,12 +24,6 @@
 <!-- Trophy Collection -->
 <img width="49%" src="https://github-profile-trophy.vercel.app/?username=drmikecrypto&theme=radical&no-frame=true&column=3&row=1&margin-w=8&margin-h=8"/>
 
-<!-- Activity Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=drmikecrypto&bg_color=0D1117&color=C9D1D9&line=FF6B6B&point=FFFFFF&area=true&hide_border=true"/>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;">
-</div>
-
 <!-- Footer -->
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=035" height="20" alt="Ethereum"/>
