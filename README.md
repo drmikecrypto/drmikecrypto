@@ -115,8 +115,8 @@
       <br>Ethereum
     </td>
     <td align="center" width="96">
-      <img src="https://cryptologos.cc/logos/fantom-ftm-logo.png" width="48" height="48" alt="Fantom"/>
-      <br>Fantom
+      <img src="https://i.imgur.com/dTAZeYR.png" width="48" height="48" alt="Sonic"/>
+      <br>Sonic
     </td>
     <td align="center" width="96">
       <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=035" width="48" height="48" alt="Bitcoin"/>
