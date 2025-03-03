@@ -116,7 +116,7 @@
     </td>
     <td align="center" width="96">
       <!-- Using a base64 encoded SVG for Sonic -->
-      <img src="https://www.soniclabs.com/sonic-logo.svg" width="48" height="48" alt="Sonic"/>
+      <img src="https://www.soniclabs.com/sonic-logo.svg" width="58" height="58" alt="Sonic"/>
       <br>Sonic
     </td>
     <td align="center" width="96">
