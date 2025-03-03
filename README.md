@@ -73,7 +73,7 @@
   <br>MetaMask
 </td>
 <td align="center" width="96">
-  <img src="[https://techstack-generator.vercel.app/nginx-icon.svg](https://github.com/drmikecrypto/gif/blob/main/1740973530_1740973485_b3e87cdf-28d6-41bf-ae96-f9e2b81e4199_no_sub_h264_watermarked-ezgif.com-gif-maker.gif)" alt="Truffle" width="65" height="65"/>
+  <img src="https://github.com/drmikecrypto/gif/blob/main/1740973530_1740973485_b3e87cdf-28d6-41bf-ae96-f9e2b81e4199_no_sub_h264_watermarked-ezgif.com-gif-maker.gif" alt="Truffle" width="65" height="65"/>
   <br>Truffle
 </td>
 <td align="center" width="96">
