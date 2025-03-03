@@ -65,7 +65,7 @@
 </tr>
 <tr>
 <td align="center" width="96">
-  <img src="https://github.com/drmikecrypto/gif/raw/refs/heads/main/Solidity.mp4" alt="Solidity" width="65" height="65"/>
+  <img src="https://github.com/drmikecrypto/gif/blob/main/Solidity.gif?raw=true" alt="Solidity" width="65" height="65"/>
   <br>Solidity
 </td>
 <td align="center" width="96">
