@@ -111,7 +111,6 @@
 </td>
 <td align="center" width="96">
   <!-- Using the Sonic logo with vertical alignment adjustment -->
-  <div style="height: 48px; display: flex; align-items: center; justify-content: center;">
     <img src="https://imgs.search.brave.com/nhAhdFozQJl8hZkaBzav_XrMfwXykELay-8TIld6A28/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGY1MWRjZTI1/ZTcyZDIzZmMwZjA5/OWQzZDlmNDc0Mzli/YjVmMDMyNTlmM2E1/Mzc4NDMwYTJjMTIw/OTVlYzI5Ny9kb2Nz/LnNvbmljbGFicy5j/b20v" width="68" height="68" alt="Sonic" style="margin-bottom: 0;"/>
   </div>
   <br>
