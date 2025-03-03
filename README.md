@@ -73,7 +73,7 @@
   <br>MetaMask
 </td>
 <td align="center" width="96">
-  <img src="https://raw.githubusercontent.com/drmikecrypto/gif/blob/main/truffle.gif?raw=true" alt="Truffle" width="65" height="65"/>
+  <img src="https://raw.githubusercontent.com/drmikecrypto/gif/blob/main/truffle.gif" alt="Truffle" width="65" height="65"/>
   <br>Truffle
 </td>
 <td align="center" width="96">
