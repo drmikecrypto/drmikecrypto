@@ -43,45 +43,45 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="48" height="48" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48" />
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
       <br>Node.js
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" />
       <br>GitHub
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" alt="Solidity" width="65" height="65"/>
+      <img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" width="48" height="48"/>
       <br>Solidity
     </td>
     <td align="center" width="96">
-      <img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" alt="MetaMask" width="65" height="65"/>
+      <img src="https://cdn.iconscout.com/icon/free/png-256/free-metamask-2728406-2261817.png" alt="MetaMask" width="48" height="48"/>
       <br>MetaMask
     </td>
     <td align="center" width="96">
-      <img src="https://github.com/kroim/profile/blob/master/icons/icon_truffle.png?raw=true" alt="Truffle" width="65" height="65"/>
+      <img src="https://trufflesuite.com/img/truffle-logo-dark.svg" alt="Truffle" width="48" height="48"/>
       <br>Truffle
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" />
       <br>Docker
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/kroim/profile/master/icons/icon_defi.png" alt="DeFi" width="65" height="65"/>
+      <img src="https://raw.githubusercontent.com/kroim/profile/master/icons/icon_defi.png" alt="DeFi" width="48" height="48"/>
       <br>DeFi
     </td>
   </tr>
