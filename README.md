@@ -65,7 +65,7 @@
 </tr>
 <tr>
 <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Solidity" width="65" height="65"/>
+  <img src="https://media.tenor.com/lf9cl4SsbagAAAAM/detective-investigate.gif" alt="Solidity" width="65" height="65"/>
   <br>Solidity
 </td>
 <td align="center" width="96">
