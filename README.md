@@ -115,7 +115,7 @@
       <br>Ethereum
     </td>
     <td align="center" width="96">
-      <img src="https://i.imgur.com/dTAZeYR.png" width="48" height="48" alt="Sonic"/>
+      <img src="https://www.soniclabs.com/logo-sonic.svg" width="48" height="48" alt="Sonic"/>
       <br>Sonic
     </td>
     <td align="center" width="96">
