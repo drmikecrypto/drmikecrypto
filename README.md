@@ -3,10 +3,6 @@
 <!-- Animated Header with floating GIF background -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+Dr.+Mike's+GitHub+Universe;Blockchain+Developer+%7C+Smart+Contracts;DeFi+%7C+NFTs+%7C+Web3+Applications" alt="Typing SVG" /></a>
 
-<img src="https://cdn.pixabay.com/photo/2016/03/31/19/45/caution-1295260_1280.png" width="32" height="32"/>
-<span><font color="#FF6B6B">Dr.</font> <font color="#C9D1D9">Mike</font>'s <font color="#58A6FF">GitHub Universe</font></span>
-<img src="https://cdn.pixabay.com/photo/2023/01/09/01/15/flash-7706360_640.png" width="32" height="32"/>
-
 <!-- Animated Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=drmikecrypto&color=blueviolet&style=flat-square" alt="Profile Views"/>
 <br><br>
