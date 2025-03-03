@@ -111,28 +111,50 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=035" width="48" height="48" alt="Ethereum"/>
-      <br>Ethereum
-    </td>
-    <td align="center" width="96">
-      <!-- Using the Sonic logo with vertical alignment adjustment -->
-      <div style="height: 48px; display: flex; align-items: center; justify-content: center;">
-        <img src="https://www.soniclabs.com/sonic-logo.svg" width="58" height="58" alt="Sonic" style="margin-bottom: 0;"/>
-      </div>
-      <br>Sonic
-    </td>
-    <td align="center" width="96">
-      <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=035" width="48" height="48" alt="Bitcoin"/>
-      <br>Bitcoin
-    </td>
-    <td align="center" width="96">
-      <img src="https://cryptologos.cc/logos/solana-sol-logo.png?v=035" width="48" height="48" alt="Solana"/>
-      <br>Solana
-    </td>
-    <td align="center" width="96">
-      <img src="https://cryptologos.cc/logos/toncoin-ton-logo.png?v=035" width="48" height="48" alt="Ton"/>
-      <br>TON
-    </td>
+
+<img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=035" width="48" height="48" alt="Ethereum"/>
+
+<br>Ethereum
+
+</td>
+
+<td align="center" width="96">
+
+<!-- Using a base64 encoded SVG for Sonic -->
+
+<img src="https://www.soniclabs.com/sonic-logo.svg" width="58" height="58" alt="Sonic"/>
+
+<br>Sonic
+
+</td>
+
+<td align="center" width="96">
+
+<img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=035" width="48" height="48" alt="Bitcoin"/>
+
+<br>Bitcoin
+
+</td>
+
+<td align="center" width="96">
+
+<img src="https://cryptologos.cc/logos/solana-sol-logo.png?v=035" width="48" height="48" alt="Solana"/>
+
+<br>Solana
+
+</td>
+
+<td align="center" width="96">
+
+<img src="https://cryptologos.cc/logos/toncoin-ton-logo.png?v=035" width="48" height="48" alt="Ton"/>
+
+<br>TON
+
+</td>
+
+</tr>
+
+</table>
 
 <!-- Additional decorative elements -->
 <details>
