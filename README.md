@@ -65,7 +65,7 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" alt="Solidity" width="65" height="65"/>
+      <img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" width="48" height="48"/>
       <br>Solidity
     </td>
     <td align="center" width="96">
