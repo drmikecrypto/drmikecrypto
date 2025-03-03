@@ -69,7 +69,7 @@
   <br>Solidity
 </td>
 <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="MetaMask" width="65" height="65"/>
+  <img src="https://camo.githubusercontent.com/32b5526fbcf0530c9ab7bd6f3818209e35aeb585328419c3ac3c213c8180bb89/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323537343730322f73637265656e73686f74732f363730323337342f6d6574616d61736b2e676966" width="65" height="65"/>
   <br>MetaMask
 </td>
 <td align="center" width="96">
