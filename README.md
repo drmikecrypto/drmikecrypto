@@ -51,7 +51,7 @@
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48" />
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
       <br>React
     </td>
     <td align="center" width="96">
@@ -65,7 +65,7 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" width="48" height="48"/>
+      <img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" alt="Solidity" width="65" height="65"/>
       <br>Solidity
     </td>
     <td align="center" width="96">
@@ -73,11 +73,11 @@
       <br>MetaMask
     </td>
     <td align="center" width="96">
-      <img src="https://trufflesuite.com/img/truffle-logo-dark.svg" alt="Truffle" width="48" height="48"/>
+      <img src="https://github.com/kroim/profile/blob/master/icons/icon_truffle.png?raw=true" alt="Truffle" width="65" height="65"/>
       <br>Truffle
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" />
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
       <br>Docker
     </td>
     <td align="center" width="96">
