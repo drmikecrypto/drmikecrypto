@@ -65,7 +65,7 @@
 </tr>
 <tr>
 <td align="center" width="96">
-  <img src="https://media.tenor.com/lf9cl4SsbagAAAAM/detective-investigate.gif" alt="Solidity" width="65" height="65"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fsolidity-ethereum-developer-programming-eth-gif-26587253&psig=AOvVaw2qq-buLd80KG4bUGEdR813&ust=1741065468846000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMjmrLmU7YsDFQAAAAAdAAAAABAE" alt="Solidity" width="65" height="65"/>
   <br>Solidity
 </td>
 <td align="center" width="96">
