@@ -73,7 +73,7 @@
   <br>MetaMask
 </td>
 <td align="center" width="96">
-  <img src="https://media1.tenor.com/m/vX9EpfsHOP4AAAAd/easy-plus-foodie.gif" alt="Truffle" width="65" height="65"/>
+  <img src="https://media.tenor.com/ZS7qiMe0KgIAAAAM/easy-plus-foodie.gif" alt="Truffle" width="65" height="65"/>
   <br>Truffle
 </td>
 <td align="center" width="96">
