@@ -117,9 +117,9 @@
     <td align="center" width="96">
       <!-- Using the Sonic logo with vertical alignment adjustment -->
       <div style="height: 48px; display: flex; align-items: center; justify-content: center;">
-        <img src="https://www.soniclabs.com/sonic-logo.svg" width="58" height="58" style="margin-bottom: 0;"/>
+        <img src="https://www.soniclabs.com/sonic-logo.svg" width="58" height="58" alt="Sonic" style="margin-bottom: 0;"/>
       </div>
-      <br>Sonic
+      <br>
     </td>
     <td align="center" width="96">
       <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=035" width="48" height="48" alt="Bitcoin"/>
