@@ -55,7 +55,7 @@
   <br>React
 </td>
 <td align="center" width="96">
-  <img src="https://media.tenor.com/Lvhj4QVL8-4AAAAM/server-is-for-javascript.gif" alt="Node.js" width="65" height="65" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" alt="Node.js" width="65" height="65" />
   <br>Node.js
 </td>
 <td align="center" width="96">
