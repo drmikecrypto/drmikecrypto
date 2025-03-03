@@ -25,7 +25,24 @@
   </tr>
   <tr>
     <td width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drmikecrypto&theme=radical&layout=compact&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&langs_count=8&custom_title=Tech%20Stack%20Proficiency"/>
+      <!-- Replace the problematic language stats with a custom Tech Stack section -->
+      <div align="center">
+        <h3><font color="#C9D1D9">💻 Tech Stack Proficiency</font></h3>
+        <table>
+          <tr>
+            <td align="center"><img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/></td>
+            <td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></td>
+          </tr>
+          <tr>
+            <td align="center"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/></td>
+            <td align="center"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></td>
+          </tr>
+          <tr>
+            <td align="center"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></td>
+            <td align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/></td>
+          </tr>
+        </table>
+      </div>
     </td>
     <td width="50%">
       <img width="100%" src="https://github-profile-trophy.vercel.app/?username=drmikecrypto&theme=radical&no-frame=true&column=3&row=1&margin-w=8&margin-h=8"/>
@@ -33,19 +50,19 @@
   </tr>
 </table>
 
-<!-- Skills Section with GitHub-compatible formatting -->
+<!-- Blockchain-Specific Skills Section with GitHub-compatible formatting -->
 <div>
   <h3>
-    <g-emoji class="g-emoji" alias="zap">⚡</g-emoji> Key Blockchain Skills
+    <g-emoji class="g-emoji" alias="zap">⚡</g-emoji> Blockchain Expertise
   </h3>
   
   <!-- Using badges which are supported by GitHub -->
   <p>
-    <a href="#"><img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/DeFi-1572B6?style=for-the-badge&logo=ethereum&logoColor=white" alt="DeFi"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/NFTs-FF6384?style=for-the-badge&logo=ethereum&logoColor=white" alt="NFTs"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Smart_Contracts-363636?style=for-the-badge&logo=ethereum&logoColor=white" alt="Smart Contracts"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/DeFi_Protocols-1572B6?style=for-the-badge&logo=ethereum&logoColor=white" alt="DeFi"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/NFT_Marketplaces-FF6384?style=for-the-badge&logo=ethereum&logoColor=white" alt="NFTs"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Ethers.js-35495E?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethers.js"/></a>
   </p>
 </div>
 
