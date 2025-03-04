@@ -77,7 +77,7 @@
   <br>Docker
 </td>
 <td align="center" width="96">
-  <img src="https://media.tenor.com/sRUpGSozFtUAAAAj/defi-bitcoin.gif" alt="DeFi" width="65" height="65"/>
+  <img src="https://media.tenor.com/nyCOhmCnEFwAAAAM/koindx-koinos.gif" alt="DeFi" width="65" height="65"/>
   <br>DeFi
 </td>
 </tr>
