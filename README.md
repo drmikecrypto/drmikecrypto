@@ -69,7 +69,7 @@
   <br>MetaMask
 </td>
 <td align="center" width="96">
-  <img src="https://images.seeklogo.com/logo-png/42/1/truffle-logo-png_seeklogo-426732.png" alt="Truffle" width="65" height="65"/>
+  <img src="https://archive.trufflesuite.com/assets/logo.png" alt="Truffle" width="65" height="65"/>
   <br>Truffle
 </td>
 <td align="center" width="96">
