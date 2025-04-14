@@ -116,15 +116,15 @@
   <br>
 </td>
 <td align="center" width="96">
-  <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=035" width="48" height="48" alt="Bitcoin"/>
+  <img src="https://res.coinpaper.com/coinpaper/bitcoin_btc_logo_62c59b827e.png" width="48" height="48" alt="Bitcoin"/>
   <br>
 </td>
 <td align="center" width="96">
-  <img src="https://cryptologos.cc/logos/solana-sol-logo.png?v=035" width="48" height="48" alt="Solana"/>
+  <img src="https://res.coinpaper.com/coinpaper/solana_sol_logo_32f9962968.png" width="48" height="48" alt="Solana"/>
   <br>
 </td>
 <td align="center" width="96">
-  <img src="https://cryptologos.cc/logos/toncoin-ton-logo.png?v=035" width="48" height="48" alt="Ton"/>
+  <img src="https://res.coinpaper.com/coinpaper/toncoin_ton_logo_c5fb8b4302.png" width="48" height="48" alt="Ton"/>
   <br>
 </td>
 
