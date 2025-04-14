@@ -106,7 +106,7 @@
 <table>
   <tr>
     <td align="center" width="96">
-  <img src="[https://cryptologos.cc/logos/ethereum-eth-logo.png?v=035](https://res.coinpaper.com/coinpaper/ethereum_eth_logo_e69b1c2368.png)" width="48" height="48" alt="Ethereum"/>
+  <img src="https://res.coinpaper.com/coinpaper/ethereum_eth_logo_e69b1c2368.png" width="48" height="48" alt="Ethereum"/>
   <br>
 </td>
 <td align="center" width="96">
