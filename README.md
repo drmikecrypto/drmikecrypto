@@ -129,29 +129,7 @@
 </td>
 
 <!-- Additional decorative elements -->
-<details>
-  <summary><b>⚙️ Blockchain Development Environment</b></summary>
-  <br>
-  <ul>
-    <li>🛠 Hardhat, Truffle, Remix</li>
-    <li>📚 Ethers.js, Web3.js</li>
-    <li>📂 IPFS, Pinata, Filecoin</li>
-    <li>🔐 OpenZeppelin, HardHat Defender</li>
-    <li>🌐 Ethereum, Solana, and EVM-compatible networks</li>
-  </ul>
-</details>
 
-<details>
-  <summary><b>🔍 Smart Contract Security</b></summary>
-  <br>
-  <ul>
-    <li>🔐 Formal Verification</li>
-    <li>🔍 Static Analysis</li>
-    <li>⚡ Runtime Verification</li>
-    <li>🧪 Automated Testing</li>
-    <li>🛡️ Security Audits & Best Practices</li>
-  </ul>
-</details>
 
 <!-- Animated Quote -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%" />
