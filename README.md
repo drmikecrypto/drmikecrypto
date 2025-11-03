@@ -157,7 +157,7 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%" />
 
 <!-- Footer with animated message -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Let's+Build+The+Future+Together" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=The+world+has+been+interpreted+enough;+now+it’s+time+to+change+it." alt="Typing SVG" /></a>
 
 <!-- Animated handshake -->
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="100" />
