@@ -1,146 +1,199 @@
+# 🚀 Dr. Mike
+
 <div align="center">
-  
-<!-- Animated Header with floating GIF background -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+Dr.+Mike's+GitHub+Universe;Blockchain+Developer+%7C+Smart+Contracts;DeFi+%7C+NFTs+%7C+Web3+Applications" alt="Typing SVG" /></a>
 
-<!-- Animated Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=drmikecrypto&color=blueviolet&style=flat-square" alt="Profile Views"/>
-<br><br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Dr.%20Mike&fontSize=60&animation=fadeIn&fontAlignY=38&desc=AI%20%E2%80%A2%20Blockchain%20%E2%80%A2%20Infrastructure%20%E2%80%A2%20Hardware&descAlignY=62"/>
 
-<!-- Animated Introduction Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=150&section=header&text=Blockchain%20Developer&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Smart%20Contracts%20|%20DeFi%20|%20Web3&descAlignY=60"/>
+### Building systems, products and experiments that shouldn't exist.
 
-<!-- Animated floating line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+AI • Distributed Systems • Blockchain • Hardware • Automation
 
-<!-- Animated GitHub Stats -->
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=drmikecrypto&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FF6B6B&ring_color=FF6B6B&include_all_commits=true&count_private=true&custom_title=DrMikeCrypto%27s%20GitHub%20Impact"/>
-      <br><br>
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=drmikecrypto&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=C9D1D9&sideLabels=C9D1D9"/>
-    </td>
-    <td width="50%" align="center">
-      <!-- Animated SVG Code Lines -->
-      <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
-      <br><br>
-      <img width="100%" src="https://github-profile-trophy.vercel.app/?username=drmikecrypto&theme=radical&no-frame=true&column=3&row=2&margin-w=8&margin-h=8"/>
-    </td>
-  </tr>
-</table>
+<br>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Founder+and+Builder;Creating+AI+and+Infrastructure+Products;Researching+Blockchain+Systems;Designing+Tools+for+Experts;Turning+Ideas+Into+Working+Systems" />
 
-<!-- Tech Stack with Animated Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Tech+Stack+Proficiency" alt="Typing SVG" /></a>
+</div>
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-  <br>JavaScript
-</td>
-<td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-  <br>TypeScript
-</td>
-<td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-  <br>React
-</td>
-<td align="center" width="96">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" alt="Node.js" width="65" height="65" />
-  <br>Node.js
-</td>
-<td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-  <br>GitHub
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-  <img src="https://media.tenor.com/fBrIx7wdCosAAAAM/solidity.gif" alt="Solidity" width="65" height="65"/>
-  <br>Solidity
-</td>
-<td align="center" width="96">
-  <img src="https://camo.githubusercontent.com/32b5526fbcf0530c9ab7bd6f3818209e35aeb585328419c3ac3c213c8180bb89/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323537343730322f73637265656e73686f74732f363730323337342f6d6574616d61736b2e676966" width="65" height="65"/>
-  <br>MetaMask
-</td>
-<td align="center" width="96">
-  <img src="https://archive.trufflesuite.com/assets/logo.png" alt="Truffle" width="65" height="65"/>
-  <br>Truffle
-</td>
-<td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-  <br>Docker
-</td>
-<td align="center" width="96">
-  <img src="https://media.tenor.com/nyCOhmCnEFwAAAAM/koindx-koinos.gif" alt="DeFi" width="65" height="65"/>
-  <br>DeFi
-</td>
-</tr>
+---
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+# Current Mission
 
-<!-- Blockchain-Specific Skills Section -->
-<details open>
-  <summary><b>⚡ Blockchain Expertise</b></summary>
-  <br>
-  
-  <!-- Using animated badges -->
-  <p>
-    <a href="#"><img src="https://img.shields.io/badge/Smart_Contracts-363636?style=for-the-badge&logo=ethereum&logoColor=white" alt="Smart Contracts"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/DeFi_Protocols-1572B6?style=for-the-badge&logo=ethereum&logoColor=white" alt="DeFi"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/NFT_Marketplaces-FF6384?style=for-the-badge&logo=ethereum&logoColor=white" alt="NFTs"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Ethers.js-35495E?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethers.js"/></a>
-  </p>
-</details>
+I am focused on building products at the intersection of:
 
-<!-- Enhanced Crypto Icons with Animated Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Blockchain+Networks" alt="Typing SVG" /></a>
+* Artificial Intelligence
+* Blockchain Infrastructure
+* Computer Hardware
+* Automation Systems
+* Disease Monitoring Platforms
+* Developer Tooling
 
-<table>
-  <tr>
-    <td align="center" width="96">
-  <img src="https://res.coinpaper.com/coinpaper/ethereum_eth_logo_e69b1c2368.png" width="48" height="48" alt="Ethereum"/>
-  <br>
-</td>
-<td align="center" width="96">
-  <!-- Using the Sonic logo with vertical alignment adjustment -->
-    <img src="https://imgs.search.brave.com/nhAhdFozQJl8hZkaBzav_XrMfwXykELay-8TIld6A28/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGY1MWRjZTI1/ZTcyZDIzZmMwZjA5/OWQzZDlmNDc0Mzli/YjVmMDMyNTlmM2E1/Mzc4NDMwYTJjMTIw/OTVlYzI5Ny9kb2Nz/LnNvbmljbGFicy5j/b20v" width="48" height="48" alt="Sonic"/>
-  </div>
-  <br>
-</td>
-<td align="center" width="96">
-  <img src="https://res.coinpaper.com/coinpaper/bitcoin_btc_logo_62c59b827e.png" width="48" height="48" alt="Bitcoin"/>
-  <br>
-</td>
-<td align="center" width="96">
-  <img src="https://res.coinpaper.com/coinpaper/solana_sol_logo_32f9962968.png" width="48" height="48" alt="Solana"/>
-  <br>
-</td>
-<td align="center" width="96">
-  <img src="https://res.coinpaper.com/coinpaper/toncoin_ton_logo_c5fb8b4302.png" width="48" height="48" alt="Ton"/>
-  <br>
-</td>
+I enjoy creating software that removes complexity, automates expert workflows and scales beyond what a single person can normally accomplish.
 
-<!-- Additional decorative elements -->
+---
 
+# Flagship Projects
 
-<!-- Animated Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%" />
+## 🖥️ PCVerse
 
-<!-- Footer with animated message -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Let's+build+the+future!" alt="Typing SVG" /></a>
+A next-generation PC building platform inspired by PCPartPicker.
 
-<!-- Animated handshake -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="100" />
+Features include:
 
-<!-- End Wave Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=120&section=footer"/>
+* Compatibility engine
+* Intelligent recommendations
+* Performance estimation
+* Hardware database
+* AI-assisted component selection
+
+---
+
+## 🐄 Farm Disease Monitoring
+
+Tools for surveillance, monitoring and early detection of livestock diseases.
+
+Areas of interest:
+
+* Rapid diagnostics
+* Disease intelligence
+* Epidemiological monitoring
+* Veterinary data systems
+
+---
+
+## ⛓️ Blockchain Infrastructure
+
+Building and researching:
+
+* Smart Contracts
+* DeFi Systems
+* Validators
+* EVM Networks
+* Protocol Automation
+* On-chain Analytics
+
+---
+
+## 🤖 AI Systems
+
+Developing:
+
+* Autonomous Agents
+* Workflow Automation
+* RAG Architectures
+* LLM Integrations
+* AI Assistants
+* Expert Systems
+
+---
+
+# Technology Stack
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,postgres,mysql,redis" />
+</p>
+
+## Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,cloudflare,git,github,bash" />
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind" />
+</p>
+
+## Blockchain
+
+<p>
+<img src="https://skillicons.dev/icons?i=solidity" />
+</p>
+
+Ethereum • EVM • Smart Contracts • DeFi • Web3
+
+---
+
+# Engineering Interests
+
+```text
+Artificial Intelligence
+Distributed Systems
+Cryptography
+Blockchain Protocols
+Developer Infrastructure
+Computer Hardware
+Automation
+High Performance Backends
+System Architecture
+```
+
+---
+
+# Current Research
+
+* AI Agents
+* Distributed Systems
+* Cryptography
+* Livestock Disease Surveillance
+* High Performance PHP
+* Blockchain Consensus Mechanisms
+
+---
+
+# Nerd Statistics
+
+```yaml
+Years spent breaking things:        Many
+Years spent fixing them:            Slightly fewer
+
+Favorite backend:                   PHP
+Favorite operating system:          Linux
+Favorite debugging strategy:        Read the source code
+Favorite database:                  PostgreSQL
+Favorite architecture topic:        Distributed Systems
+
+Current obsession:
+  - AI Agents
+  - Infrastructure
+  - Blockchain
+  - Automation
+```
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# Philosophy
+
+> Build useful things.
+>
+> Learn how systems work.
+>
+> Automate repetitive work.
+>
+> Stay curious.
+>
+> Ship.
+
+---
+
+<div align="center">
+
+### Let's build something interesting.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
 
 </div>
