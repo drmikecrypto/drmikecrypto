@@ -33,6 +33,17 @@ I enjoy creating software that removes complexity, automates expert workflows an
 
 # Flagship Projects
 
+## 🛡️ [Aegis](https://github.com/Aegis-Finance)
+
+**Private finance on Sonic** — a selective-privacy DeFi ecosystem with zero-knowledge proofs at the core.
+
+* [Protocol & circuits](https://github.com/Aegis-Finance/Aegis) — Solidity, Circom, signed releases
+* [Web application](https://github.com/Aegis-Finance/aegis-web-application) — governance, lending, bridge, swap
+* [Token sale](https://github.com/Aegis-Finance/aegis-token-sale) — Dutch auction TGE client
+* [Sovereign node](https://github.com/Aegis-Finance/aegis-sovereign-node-app) — local RPC + native shell
+
+---
+
 ## 🖥️ PCVerse
 
 A next-generation PC building platform inspired by PCPartPicker.
@@ -156,6 +167,7 @@ Favorite database:                  PostgreSQL
 Favorite architecture topic:        Distributed Systems
 
 Current obsession:
+  - Aegis (private finance on Sonic)
   - AI Agents
   - Infrastructure
   - Blockchain
