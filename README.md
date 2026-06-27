@@ -31,7 +31,28 @@ I enjoy creating software that removes complexity, automates expert workflows an
 
 ---
 
+---
+
+# GitHub Achievements
+
+![YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)
+![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)
+![Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png)
+
+---
+
 # Flagship Projects
+
+## 🌐 [v2rayF](https://github.com/drmikecrypto/v2rayF)
+
+**Cross-platform V2Ray/Xray proxy client** — Windows, macOS, Linux, and Android.
+
+* One-click import (clipboard, subscription URL)
+* VLESS / REALITY / VMess / Trojan / Shadowsocks
+* Latency test, routing presets, bundled Xray core
+* **[Download latest release](https://github.com/drmikecrypto/v2rayF/releases/latest)** — if you try it, a ⭐ helps a lot
+
+---
 
 ## 🛡️ [Aegis](https://github.com/Aegis-Finance)
 
