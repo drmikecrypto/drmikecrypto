@@ -1,5 +1,3 @@
-# 🚀 Dr. Mike
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Dr.%20Mike&fontSize=60&animation=fadeIn&fontAlignY=38&desc=AI%20%E2%80%A2%20Blockchain%20%E2%80%A2%20Infrastructure%20%E2%80%A2%20Hardware&descAlignY=62"/>
