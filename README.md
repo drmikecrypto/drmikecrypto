@@ -21,16 +21,6 @@ AI • Distributed Systems • Blockchain • Hardware • Automation
 
 ---
 
-# GitHub Achievements
-
-![YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)
-![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)
-![Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png)
-
-*Working toward Galaxy Brain, Pair Extraordinaire & Starstruck — Q&A help welcome on [v2rayF Discussions](https://github.com/drmikecrypto/v2rayF/discussions).*
-
----
-
 # Flagship Projects
 
 ## 🌐 [v2rayF](https://github.com/drmikecrypto/v2rayF) ⭐ **please star if you use proxies**
