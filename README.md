@@ -12,24 +12,12 @@ AI • Distributed Systems • Blockchain • Hardware • Automation
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Founder+and+Builder;Creating+AI+and+Infrastructure+Products;Researching+Blockchain+Systems;Designing+Tools+for+Experts;Turning+Ideas+Into+Working+Systems" />
 
+[![GitHub followers](https://img.shields.io/github/followers/drmikecrypto?style=for-the-badge&logo=github&label=Follow)](https://github.com/drmikecrypto?tab=followers)
+[![v2rayF stars](https://img.shields.io/github/stars/drmikecrypto/v2rayF?style=for-the-badge&logo=github&label=v2rayF%20%E2%AD%90)](https://github.com/drmikecrypto/v2rayF)
+
+**If my work helps you → [follow @drmikecrypto](https://github.com/drmikecrypto) and star [v2rayF](https://github.com/drmikecrypto/v2rayF) — I star & follow back on the [exchange thread](https://github.com/drknzz/GitHub-Achievements/discussions/797).**
+
 </div>
-
----
-
-# Current Mission
-
-I am focused on building products at the intersection of:
-
-* Artificial Intelligence
-* Blockchain Infrastructure
-* Computer Hardware
-* Automation Systems
-* Disease Monitoring Platforms
-* Developer Tooling
-
-I enjoy creating software that removes complexity, automates expert workflows and scales beyond what a single person can normally accomplish.
-
----
 
 ---
 
@@ -39,179 +27,62 @@ I enjoy creating software that removes complexity, automates expert workflows an
 ![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)
 ![Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png)
 
+*Working toward Galaxy Brain, Pair Extraordinaire & Starstruck — Q&A help welcome on [v2rayF Discussions](https://github.com/drmikecrypto/v2rayF/discussions).*
+
 ---
 
 # Flagship Projects
 
-## 🌐 [v2rayF](https://github.com/drmikecrypto/v2rayF)
+## 🌐 [v2rayF](https://github.com/drmikecrypto/v2rayF) ⭐ **please star if you use proxies**
 
 **Cross-platform V2Ray/Xray proxy client** — Windows, macOS, Linux, and Android.
 
 * One-click import (clipboard, subscription URL)
 * VLESS / REALITY / VMess / Trojan / Shadowsocks
 * Latency test, routing presets, bundled Xray core
-* **[Download latest release](https://github.com/drmikecrypto/v2rayF/releases/latest)** — if you try it, a ⭐ helps a lot
+* **[Download latest release](https://github.com/drmikecrypto/v2rayF/releases/latest)**
+* **Questions?** [Q&A Discussions](https://github.com/drmikecrypto/v2rayF/discussions/categories/q-a) — I answer fast
+
+---
+
+## 🖥️ [pc-lab-kit](https://github.com/drmikecrypto/pc-lab-kit)
+
+**PCVerse** — local PC diagnostic lab: HWiNFO-style health scan, live sensors, RGB, benchmarks, optional AI advisor.
 
 ---
 
 ## 🛡️ [Aegis](https://github.com/Aegis-Finance)
 
-**Private finance on Sonic** — a selective-privacy DeFi ecosystem with zero-knowledge proofs at the core.
+**Private finance on Sonic** — selective-privacy DeFi with zero-knowledge proofs.
 
-* [Protocol & circuits](https://github.com/Aegis-Finance/Aegis) — Solidity, Circom, signed releases
-* [Web application](https://github.com/Aegis-Finance/aegis-web-application) — governance, lending, bridge, swap
-* [Token sale](https://github.com/Aegis-Finance/aegis-token-sale) — Dutch auction TGE client
-* [Sovereign node](https://github.com/Aegis-Finance/aegis-sovereign-node-app) — local RPC + native shell
-
----
-
-## 🖥️ PCVerse
-
-A next-generation PC building platform inspired by PCPartPicker.
-
-Features include:
-
-* Compatibility engine
-* Intelligent recommendations
-* Performance estimation
-* Hardware database
-* AI-assisted component selection
+* [Protocol & circuits](https://github.com/Aegis-Finance/Aegis)
+* [Web application](https://github.com/Aegis-Finance/aegis-web-application)
+* [Token sale](https://github.com/Aegis-Finance/aegis-token-sale)
+* [Sovereign node](https://github.com/Aegis-Finance/aegis-sovereign-node-app)
 
 ---
 
-## 🐄 Farm Disease Monitoring
+# Current Mission
 
-Tools for surveillance, monitoring and early detection of livestock diseases.
-
-Areas of interest:
-
-* Rapid diagnostics
-* Disease intelligence
-* Epidemiological monitoring
-* Veterinary data systems
-
----
-
-## ⛓️ Blockchain Infrastructure
-
-Building and researching:
-
-* Smart Contracts
-* DeFi Systems
-* Validators
-* EVM Networks
-* Protocol Automation
-* On-chain Analytics
-
----
-
-## 🤖 AI Systems
-
-Developing:
-
-* Autonomous Agents
-* Workflow Automation
-* RAG Architectures
-* LLM Integrations
-* AI Assistants
-* Expert Systems
+Building at the intersection of AI, blockchain infrastructure, hardware automation, and developer tooling.
 
 ---
 
 # Technology Stack
 
-## Backend
-
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,postgres,mysql,redis" />
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,postgres,mysql,redis,linux,docker,nginx,git,github,react,typescript,solidity,cs,dotnet" />
 </p>
 
-## Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,docker,nginx,cloudflare,git,github,bash" />
-</p>
-
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind" />
-</p>
-
-## Blockchain
-
-<p>
-<img src="https://skillicons.dev/icons?i=solidity" />
-</p>
-
-Ethereum • EVM • Smart Contracts • DeFi • Web3
-
 ---
 
-# Engineering Interests
-
-```text
-Artificial Intelligence
-Distributed Systems
-Cryptography
-Blockchain Protocols
-Developer Infrastructure
-Computer Hardware
-Automation
-High Performance Backends
-System Architecture
-```
-
----
-
-# Current Research
-
-* AI Agents
-* Distributed Systems
-* Cryptography
-* Livestock Disease Surveillance
-* High Performance PHP
-* Blockchain Consensus Mechanisms
-
----
-
-# Nerd Statistics
-
-```yaml
-Years spent breaking things:        Many
-Years spent fixing them:            Slightly fewer
-
-Favorite backend:                   PHP
-Favorite operating system:          Linux
-Favorite debugging strategy:        Read the source code
-Favorite database:                  PostgreSQL
-Favorite architecture topic:        Distributed Systems
-
-Current obsession:
-  - Aegis (private finance on Sonic)
-  - AI Agents
-  - Infrastructure
-  - Blockchain
-  - Automation
-```
-
----
-
-# Philosophy
-
-> Build useful things.
->
-> Learn how systems work.
->
-> Automate repetitive work.
->
-> Stay curious.
->
-> Ship.
-
----
+# Connect
 
 <div align="center">
+
+[![Profile](https://img.shields.io/badge/GitHub-drmikecrypto-181717?style=for-the-badge&logo=github)](https://github.com/drmikecrypto)
+[![v2rayF](https://img.shields.io/badge/Project-v2rayF-58A6FF?style=for-the-badge)](https://github.com/drmikecrypto/v2rayF)
+[![Discussions](https://img.shields.io/badge/Q%26A-Ask%20Me-238636?style=for-the-badge&logo=github)](https://github.com/drmikecrypto/v2rayF/discussions/categories/q-a)
 
 ### Let's build something interesting.
 
